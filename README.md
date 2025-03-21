@@ -52,8 +52,9 @@ python analysis.py
 
 
 
-### **2. Team Performance Graph**
-![Team Performance](images/team_performance.png)
+### **2.Top 10 Most Sucessful Team Performance Graph**
+![Team Performance](images/succesful%20team.png)
+
 
 *(Make sure your images are stored in the `images/` folder inside your project directory.)*
 
