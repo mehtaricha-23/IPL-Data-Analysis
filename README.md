@@ -47,7 +47,9 @@ python analysis.py
 
 ## 📸 Project Preview
 ### **1. IPL Match Analysis Visualization**
-![IPL Data Analysis](batting_chasing_comparison.png)
+![IPL Data Analysis](image/batting_chasing_comparison.png)
+
+
 
 ### **2. Team Performance Graph**
 ![Team Performance](images/team_performance.png)
