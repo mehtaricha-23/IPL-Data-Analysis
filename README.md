@@ -20,7 +20,7 @@ The dataset used for this project contains IPL match details, including teams, s
 ## 📥 Clone Repository
 To get a copy of this project, run the following command in your terminal:
 ```sh
-git clone https://github.com/your-username/IPL-Data-Analysis.git
+git clone https://github.com/mehtaricha-23/IPL-Data-Analysis.git
 ```
 
 ---
@@ -80,6 +80,6 @@ This project is licensed under the MIT License.
 
 ## 💬 Contact
 For any queries, feel free to reach out:
-- GitHub: [mehtaricha-23](https://github.com/your-username)
+- GitHub: [mehtaricha-23](https://github.com/mehtaricha-23)
 - Email: mehtaricha232@gmail.com
 
